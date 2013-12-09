@@ -1,0 +1,196 @@
+LineaA
+Pantitlán Linea1 Linea5 Linea9
+Agrícola_Oriental
+Canal_de_San_Juan
+Tepalcates
+Guelatao
+Peñon_Viejo
+Acatitla
+Santa_Marta
+Los_Reyes
+La_Paz
+#
+LineaB
+Ciudad_Azteca
+Plaza_Aragón
+Olímpica
+Ecatepec
+Muzquiz
+Río_de_los_Remedios
+Impulsora
+Nezahualcóyotl
+Villa_de_Aragón
+Deportivo_Oceanía
+Oceanía Linea5
+Romero_Rubio
+Ricardo_Flores_Magón
+San_Lázaro Linea1
+Morelos Linea4
+Tepito
+Lagunilla
+Garibaldi Linea8
+Guerrero Linea3
+Buenavista
+#
+Linea1
+Observatorio
+Tacubaya Linea7 Linea9
+Juanacatlán
+Chapultepec
+Sevilla
+Insurgentes
+Cuauhtémoc
+Balderas Linea3
+Salto_del_Agua Linea8
+Isabel_la_Católica
+Pino_Suárez Linea2
+Merced
+Candelaria Linea4
+San_Lázaro LineaB
+Moctezuma
+Balbuena
+Boulevard_Puerto_Aéreo
+Gómez_Farías
+Zaragoza
+Pantitlán LineaA Linea5 Linea9
+#
+Linea2
+Cuatro_Caminos
+Panteones
+Tacuba Linea7
+Cuitlahuac
+Popotla
+Colegio_Militar
+Normal
+San_Cosme
+Revolución
+Hidalgo Linea3
+Bellas_Artes Linea8
+Allenda
+Zócalo
+Pino_Suárez Linea1
+San_Antonio_Abad
+Chabacano Linea8 Linea9
+Viaducto
+Xola
+Villa_de_Cortés
+Nativitas
+Portales
+Ermita
+General_Anaya
+Tasqueña
+#
+Linea3
+Indios_Verdes
+Deportivo_18_de_Marzo Linea6
+Potrero
+La_Raza Linea5
+Tlatelolco
+Guerrero LineaB
+Hidalgo Linea2
+Juárez
+Balderas Linea1
+Niños_Héroes
+Hospital_General
+Centro_Médico Linea9
+Etiopía
+Eugenia
+División_del_Norte
+Zapata
+Coyoacán
+Viveros
+Miguel_Angel_de_Quevedo
+Copilco
+Universidad
+#
+Linea4
+Martín_Carrera Linea6
+Talismán
+Bondojito
+Consulado Linea5
+Canal_del_Norte
+Morelos LineaB
+Candelaria Linea1
+Fray_Servando
+Jamaica Linea9
+Santa_Anita Linea8
+#
+Linea5
+Pantitlán LineaA Linea1 Linea9
+Hangares
+Terminal_Aérea
+Oceanía LineaB
+Aragón
+Eduardo_Molina
+Consulado Linea4
+Valle_Gómez
+Misterios
+La_Raza Linea3
+Autobuses_del_Norte
+Instituto_del_Petróleo Linea6
+Politécnico
+#
+Linea6
+El_Rosario Linea7
+Tezozomoc
+Azcapotzalco
+Ferrería
+Norte_45
+Vallejo
+Instituto_del_Petróleo Linea5
+Lindavista
+Deportivo_18_de_Marzo Linea3
+La_Villa-Basílica
+Martín_Carrera Linea4
+#
+Linea7
+El_Rosario Linea6
+Aquiles_Serdán
+Camarones
+Refinería
+Tacuba Linea2
+San_Joaquín
+Polanco
+Auditorio
+Constituyentes
+Tacubaya Linea9
+San_Pedro_de_los_Pinos
+San_Antonio
+Mixcoac
+Barranca_del_Muerto
+#
+Linea8
+Garibaldi LineaB
+Bellas_Artes Linea2
+San_Juan_de_Letrán
+Salto_del_Agua Linea1
+Doctores
+Obrera
+Chabacano Linea2 Linea9
+La_Viga
+Santa_Anita Linea4
+Coyuya
+Iztacalco
+Apatlaco
+Aculco
+Escuadrón_201
+Atlalilco
+Iztapalapa
+Cerro_de_la_Estrella
+UAM-I
+Constitución_de_1917
+#
+Linea9
+Tacubaya Linea1 Linea7
+Patriotismo
+Chilpancingo
+Centro_Médico Linea3
+Lázaro_Cárdenas
+Chabacano Linea2 Linea8
+Jamaica Linea4
+Mixiuhca
+Velódromo
+Ciudad_Deportiva
+Puebla
+Pantitlán LineaA Linea1 Linea5
+#
